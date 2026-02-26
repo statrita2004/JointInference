@@ -4,7 +4,7 @@ https://www.biorxiv.org/content/10.1101/2022.09.20.508756v1
 
 ## Joint-Inference-of-selection-and-number-of-selected-target
 
-- **abcpy**: A local repository containing necessary abcpy codease.
+- **abcpy**: A local repository containing necessary abcpy codebase.
 - **input**: Contains the input haplotype dataset and mimiCREE2 Java code.
 - **model_mimiCREE.py**: Contains simulation model by using mimiCREE2 [2].
 - **Statistics_new.py**: Computes the summary statistics used for this study.
