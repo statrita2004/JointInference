@@ -1,4 +1,4 @@
-This is the source code for the paper :
+This is the repository for the paper :
 [Joint likelihood-free inference of the number of selected single nucleotide polymorphisms and the selection coefficient in an evolving population](https://doi.org/10.1016/j.jtbi.2026.112544)
 
 ## Joint-Inference-of-selection-and-number-of-selected-target
